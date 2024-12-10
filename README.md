@@ -20,11 +20,11 @@ Ce projet est un TP réalisé dans le cadre du cours HAI912I. Il s'agit d'une ap
 
 ## 📱 Screenshots
 
-![Page de profil](screen/profil_page.png | width=300)
+<img src="screen/profil_page.png" width="300" height="200" alt="Page de profil">
 
-![Affichage d'une question](screen/quiz_page.png | width=300)
+<img src="screen/quiz_page.png" width="300" height="200" alt="Affichage d'une question">
 
-![Affichage du score](screen/quiz_score.png)
+<img src="screen/quiz_score.png" width="300" height="200" alt="Affichage du score">
 
 ## 📁 Structure du Projet
 
