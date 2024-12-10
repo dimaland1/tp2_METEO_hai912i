@@ -20,9 +20,9 @@ Ce projet est un TP réalisé dans le cadre du cours HAI912I. Il s'agit d'une ap
 
 ## 📱 Screenshots
 
-![Page de profil](screen/profil_page.png)
+![Page de profil](screen/profil_page.png | width=300)
 
-![Affichage d'une question](screen/quiz_page.png)
+![Affichage d'une question](screen/quiz_page.png | width=300)
 
 ![Affichage du score](screen/quiz_score.png)
 
