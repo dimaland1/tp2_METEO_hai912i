@@ -26,6 +26,8 @@ Ce projet est un TP réalisé dans le cadre du cours HAI912I. Il s'agit d'une ap
 
 <img src="screen/quiz_score.png" height="400" alt="Affichage du score">
 
+<img src="screen/quiz_score_win.png" height="400" alt="Affichage du score gagnant">
+
 ## 📁 Structure du Projet
 
 ```
